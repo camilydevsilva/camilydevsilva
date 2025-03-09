@@ -19,7 +19,7 @@
 
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:camilyvitorya1718@gmail.com) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/camilysantos/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/camily-santos-a37802332/)
 
 
 
