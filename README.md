@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BDE35&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BDE35&random=false&width=500&height=40&lines=Hey,+I'm+Camily.+I'm+a+Software+Engineer." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&random=false&width=500&height=40&lines=Hey,+I'm+Camily.+I'm+a+Software+Engineer." alt="Typing SVG" /></a>
 ---
 ## About Me
   Welcome to my profile! I'm a backend developer and data analyst passionate about technology and solving complex problems. Currently, I am focused on expanding my knowledge in backend development and data analysis, and applying this knowledge in practical projects that contribute to the growth and optimization of systems.
@@ -25,4 +25,4 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BDE35&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
