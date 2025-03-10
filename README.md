@@ -1,21 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BDE35&height=120&section=header"/>
 
-<h1 align="center">Hi Guys! I'm Camily Silva</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=836FFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Backend+Developer+and+Data+Analyst+from+Brazil;Passionate+about+Python,+Technology+and;problem+solving!" />
-     </a>
-</p>
-
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BDE35&random=false&width=500&height=40&lines=Hey,+I'm+Camily.+I'm+a+Software+Engineer." alt="Typing SVG" /></a>
 ---
-
+## About Me
+  Welcome to my profile! I'm a backend developer and data analyst passionate about technology and solving complex problems. Currently, I am focused on expanding my knowledge in backend development and data analysis, and applying this knowledge in practical projects that contribute to the growth and optimization of systems.
 ## Goal
   My goal is to transform data into valuable insights and build robust systems to drive business growth.
-## Tech Stack 
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+## Linguage and Tools
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![Djando](https://skillicons.dev/icons?i=django)](https://skillicons.dev)  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
 
-##Let's Connect?  
+## My learning journey
+- Linux 
+- Python & Django
+- Power Bi & Excel
+  
+## Connect with Me
 
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:camilyvitorya1718@gmail.com) &nbsp;
@@ -26,4 +25,4 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BDE35&height=120&section=footer"/>
