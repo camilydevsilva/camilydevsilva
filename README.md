@@ -6,7 +6,7 @@
   Welcome to my profile! I'm a backend developer and data analyst passionate about technology and solving complex problems. Currently, I am focused on expanding my knowledge in backend development and data analysis, and applying this knowledge in practical projects that contribute to the growth and optimization of systems.
 ## Goal
   My goal is to transform data into valuable insights and build robust systems to drive business growth.
-## Linguage and Tools
+## Linguagem and Tools
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![Djando](https://skillicons.dev/icons?i=django)](https://skillicons.dev)  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
 
 ## My learning journey
