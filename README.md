@@ -7,12 +7,12 @@
 ## Goal
   My goal is to transform data into valuable insights and build robust systems to drive business growth.
 ## Linguagem and Tools
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![Djando](https://skillicons.dev/icons?i=django)](https://skillicons.dev)  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
 
 ## My learning journey
 - Linux 
-- Python & Django
-- Power Bi & Excel
+- Python 
+- Excel
   
 ## Connect with Me
 
