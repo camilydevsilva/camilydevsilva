@@ -3,7 +3,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&random=false&width=500&height=40&lines=Hey,+I'm+Camily.+I'm+a+Software+Engineer." alt="Typing SVG" /></a>
 ---
 ## About Me
-  Welcome to my profile! I'm a backend developer and data analyst passionate about technology and solving complex problems. Currently, I am focused on expanding my knowledge in backend development, and applying this knowledge in practical projects that contribute to the growth and optimization of systems.
+  Welcome to my profile! I'm a fullstack developer passionate about technology and solving complex problems. Currently, I am focused on expanding my knowledge in fullstack development, and applying this knowledge in practical projects that contribute to the growth and optimization of systems.
 ## Goal
   My goal is to transform data into valuable insights and build robust systems to drive business growth.
 ## Linguagem and Tools
